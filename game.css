@@ -1,0 +1,53 @@
+body
+{
+	background-image: url("https://media.istockphoto.com/photos/an-abstract-blue-pattern-with-numbers-picture-id178895760?k=20&m=178895760&s=612x612&w=0&h=ZmCw-PcHc9s8CcocHe3fpqVph8MGs6WziHQIOPnUk2g=");
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: red;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: darkblue;
+		font-weight: bold;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: royalblue
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: blueviolet;
+border-radius: 10px;
+border-top: 10px solid #0ae45d;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color: chocolate;
+	font-weight: bold;
+	background-color: rebeccapurple;
+}
+
+
+
+
+
+
+
+
